@@ -1,0 +1,5 @@
+Satellite image classification using CNN:
+
+Below is the link to the dataset used:
+
+https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery
